@@ -1,4 +1,4 @@
-let colours = ['#257180', '#F2E5BF', '#FD8B51', '#CB6040'];
+let colours = ['#257180', '#F2E8BF', '#FD5B51', '#CB6040'];
 let gravity = [0, 0.1];
 let friction = 0.99;
 let cnt = 0;
